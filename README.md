@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismael_zbi_95" target="blank"><img src="https://img.shields.io/twitter/follow/ismael_zbi_95?logo=twitter&style=for-the-badge" alt="ismael_zbi_95" /></a> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **ML || DP || NLP || CV.etc**
 
 - 📫 How to reach me **zabihulallah502@gmail.com**
 
