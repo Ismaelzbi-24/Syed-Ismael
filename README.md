@@ -1,4 +1,4 @@
-[![MasterHead](https://tse1.mm.bing.net/th/id/OIP.eUUpZVsMF8yAHi6uW44f5gHaD-?pid=Api&P=0&h=220)]
+[![MasterHead]([https://tse1.mm.bing.net/th/id/OIP.eUUpZVsMF8yAHi6uW44f5gHaD-?pid=Api&P=0&h=220](https://tse3.mm.bing.net/th/id/OIP.wBh3iUVAMCFcWtNstUKgEAHaDJ?pid=Api&P=0&h=220))]
 <h1 align="center">Hi 👋, I'm SYED ISMAEL</h1>
 <h3 align="center">An enthusiastic software engineer exploring AI, deep learning & computer vision</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
